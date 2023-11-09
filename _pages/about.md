@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello There, I'm Venkatraman Renganathan (@Venkat)"
+title: "👋 Hello There, I'm Venkatraman Renganathan (@Venkat)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
