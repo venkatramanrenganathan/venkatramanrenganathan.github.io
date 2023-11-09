@@ -1,7 +1,7 @@
 ---
 title: "Probabilistic Robust Control"
 permalink: /research/prc
-excerpt: "A new framework for probabilistic robust control using high-confidence model-ambiguity sets<br/><img src='/images/500x300.png'>"
+excerpt: "A new framework for probabilistic robust control using high-confidence model-ambiguity sets<br/><img src='/images/UncertainNyquist.jpg'>"
 collection: research
 ---
 
