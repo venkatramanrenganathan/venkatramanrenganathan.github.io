@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a postdoctoral researcher at the [Department of Automatic Control](https://control.lth.se) and I am being hosted by Dr. Anders Rantzer. Earlier I obtained my PhD in [Mechanical Engineering](https://me.utdallas.edu) (with focus on Dynamics and Controls) on 2021 from The University of Texas at Dallas, USA under the supervision of Dr. Tyler Summers. I also got a Masters degree in [Electrical Engineering](https://ecee.engineering.asu.edu) (with focus on Control Systems) on 2016 from the Arizona State University, USA and I was mentored by Dr. Armando Rodriguez. I finished my undergraduate studies in [Electrical and Electronics Engineering](https://gct.ac.in/19/department-eee-about-department) from the Government College of Technology - Anna University in Coimbatore by 2011.
+
 
 A data-driven personal website
 ======
