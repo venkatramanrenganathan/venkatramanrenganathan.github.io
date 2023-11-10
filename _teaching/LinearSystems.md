@@ -7,12 +7,3 @@ venue: "Lund University, Department of Automatic Control"
 date: February 2022 - April 2022
 location: "Lund, Sweden"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

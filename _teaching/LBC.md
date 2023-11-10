@@ -8,11 +8,3 @@ date: January 2022 - March 2022
 location: "Lund, Sweden"
 ---
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
