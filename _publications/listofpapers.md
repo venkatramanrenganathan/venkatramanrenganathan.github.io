@@ -1,8 +1,8 @@
 ---
 title: "List of Publications"
 collection: publications
-permalink: /publications
----
+permalink: /publications/papers
+excerpt: "
 
 For the most recent papers, please see my [google scholar](https://scholar.google.com/citations?hl=en&user=D2ANMyEAAAAJ).
 
@@ -36,4 +36,7 @@ For the most recent papers, please see my [google scholar](https://scholar.googl
 1. **V. Renganathan**, N. Hashemi, J. Ruths, T. Summers,  `Distributionally Robust Tuning of Anomaly Detectors in Cyber-Physical Systems with Stealthy Attacks `,  IEEE American Control Conference, 2020. 
 1. V. Raghuraman, **V. Renganathan**, T. Summers, J. Koeln,  `Hierarchical MPC with Coordinating Terminal Costs `,  IEEE American Control Conference, 2020. 
 1. **V. Renganathan**, T. Summers,  `Spoof Resilient Coordination for Distributed Multi-Robot Systems `,  Proceedings of The International Symposium on Multi-Robot and Multi-Agent Systems(MRS), Los Angeles, USA, Dec 4-5, 2017. 
+
+"
+---
 
