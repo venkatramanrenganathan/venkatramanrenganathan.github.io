@@ -1,10 +1,11 @@
 ---
-title: "List of Publications"
-collection: publications
+title: "Click Here for the List of Publications"
 permalink: /publications/papers
-excerpt: "
+collection: publications
+excerpt: ""
+---
 
-For the most recent papers, please see my [google scholar](https://scholar.google.com/citations?hl=en&user=D2ANMyEAAAAJ).
+For the most recent papers, watch out for my [google scholar](https://scholar.google.com/citations?hl=en&user=D2ANMyEAAAAJ).
 
 ## Manuscripts in Preparation
 1. **V. Renganathan**,  `Probabilistic Robust Control Using High-Confidence Model-Ambiguity Sets `,  Journal Manuscript In Preparation, 2023. 
@@ -37,6 +38,5 @@ For the most recent papers, please see my [google scholar](https://scholar.googl
 1. V. Raghuraman, **V. Renganathan**, T. Summers, J. Koeln,  `Hierarchical MPC with Coordinating Terminal Costs `,  IEEE American Control Conference, 2020. 
 1. **V. Renganathan**, T. Summers,  `Spoof Resilient Coordination for Distributed Multi-Robot Systems `,  Proceedings of The International Symposium on Multi-Robot and Multi-Agent Systems(MRS), Los Angeles, USA, Dec 4-5, 2017. 
 
-"
----
+
 
