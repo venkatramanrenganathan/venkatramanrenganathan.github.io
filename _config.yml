@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Venkatraman Renganathan"
   avatar           : "Sriram.jpg"
-  bio              : "Postdoctoral Fellow"
+  bio              : "Postdoctoral Fellow - Dept. of Automatic Control - LTH, Lund University"
   location         : "Lund, Sweden"
-  employer         : "Dept. of Automatic Control - LTH 
-                      Lund University"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=D2ANMyEAAAAJ&hl=en&oi=ao"
   email            : "venkatraman.renganathan@control.lth.se"
