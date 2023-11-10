@@ -2,7 +2,6 @@
 title: "Click Here for the List of Publications"
 permalink: /publications/papers
 collection: publications
-date: 2017 - Present 
 excerpt: ""
 ---
 
