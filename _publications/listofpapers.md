@@ -21,7 +21,7 @@ For the most recent papers, please see my [google scholar](https://scholar.googl
 ## Conferences
 1. **V. Renganathan**, A. Iannelli, A. Rantzer, `Online Learning Analysis for Minimax Adaptive Control`, Accepted for IEEE CDC, 2023.
 2. C. Alpturk, **V. Renganathan**, `Risk Averse Path Planning Using Lipschitz Approximated Wasserstein Distributionally Robust Deep Q-learning`, ECC, Bucharest, Romania, 2023.
-3. **V. Renganathan, A. Cervin**, et.al, `Learning-based Control and Estimation for Attitude Regulation of a Reusable Launcher for Landing Scenario`,  Accepted to the ESA-GNC \& ICATT Conference, Sopot, Poland, 2023.
+3. **V. Renganathan, A. Cervin**, et.al, `Learning-based Control and Estimation for Attitude Regulation of a Reusable Launcher for Landing Scenario`,  Accepted to the ESA-GNC & ICATT Conference, Sopot, Poland, 2023.
 4. **V. Renganathan**, J. Pilipovsky, P. Tsoitras,  `Distributionally Robust Covariance Steering With Optimal Risk Allocation `,  Accepted to IEEE ACC, 2023.
 5. K. Ekenberg, **V. Renganathan**, B. Olofsson,  `Distributionally Robust RRT with Risk Allocation `,  Accepted to IEEE ICRA, 2023.
 6. T. Jouini, Z. Sun, **V. Renganathan**, Veit Hagenmeyer,  `Input and state constrained inverse optimal control with application to power networks `,  IFAC World Congress, 2023.
