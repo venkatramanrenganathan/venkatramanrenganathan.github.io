@@ -2,10 +2,10 @@ For the most recent papers, please see my [google scholar](https://scholar.googl
 
 ## Manuscripts in Preparation
 
-1. **V. Renganathan**,  'Probabilistic Robust Control Using High-Confidence Model-Ambiguity Sets ',  Journal Manuscript In Preparation}, 2023. 
-2. **V. Renganathan**,  'Distributionally Robust Risk Allocation for Optimal Sampling Based Motion Planning Under Uncertainty ',  Journal Manuscript In Preparation}, 2023. 
-3. **V. Renganathan**, N. Hashemi, J. V. Deshmukh,  'Data-driven Anomaly Detection Using Conformal Prediction ',  Conference Manuscript In Preparation}, 2023. 
-4. **V. Renganathan**,  'A Novel Anticipatory Distributed Consensus Protocol for Multi-agent Systems ',  Journal Manuscript In Preparation}, 2023. 
+1. **V. Renganathan**,  'Probabilistic Robust Control Using High-Confidence Model-Ambiguity Sets ',  Journal Manuscript In Preparation, 2023. 
+2. **V. Renganathan**,  'Distributionally Robust Risk Allocation for Optimal Sampling Based Motion Planning Under Uncertainty ',  Journal Manuscript In Preparation, 2023. 
+3. **V. Renganathan**, N. Hashemi, J. V. Deshmukh,  'Data-driven Anomaly Detection Using Conformal Prediction ',  Conference Manuscript In Preparation, 2023. 
+4. **V. Renganathan**,  'A Novel Anticipatory Distributed Consensus Protocol for Multi-agent Systems ',  Journal Manuscript In Preparation, 2023. 
 
 
 ## Preprints in Submission
