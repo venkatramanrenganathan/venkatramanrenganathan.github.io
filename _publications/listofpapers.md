@@ -15,7 +15,7 @@ For the most recent papers, watch out for my [google scholar](https://scholar.go
 
 
 ## Preprints in Submission
-1. **V. Renganathan**, A. Rantzer, O. Kjellqvist, `Distributed Minimax Adaptive Control For Uncertain Networks`, Submitted for European Control Conference, 2024. 
+1. **V. Renganathan**, A. Rantzer, O. Kjellqvist, `Distributed Adaptive Control For Uncertain Networks`, Submitted for European Control Conference, 2024. 
 1. M. Pfefferkorn, **V. Renganathan**, R. Findeisen, `Regret & Conservatism of Stochastic MPC`, Submitted to Letters to Control Systems Society & American Control Conference, Toronto, Canada 2024.
 
 ## Journals
