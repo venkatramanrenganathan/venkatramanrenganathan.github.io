@@ -18,6 +18,7 @@ I am a postdoctoral researcher at the [Department of Automatic Control](https://
 1. **December 2022:** I attended the CDC 2022 at Cancun, Mexico.
 1. **October 2022:** One of the most happiest months in my life. My wife Reshma and me welcomed our son Vishruth to this world. I also got selected for the prestigious DAAD AI Net Fellowship for AI in CPS.
 1. **June 2022:** I attended the Stockholm Workshop on Emerging Topics in Systems and Control at KTH, Sweden.
+1. **June 2022:** My first set of Masters students Kajsa Ekenberg and Cem Alpturk from Lund University defended their Masters thesis on the same day succesfully. Happy to be a proud supervisor!
 1. **August 2021:** I statrted my postdoc at the department of automatic control in Lund University, Sweden under Dr. Anders Rantzer.
 1. **June 2021:** I defended my PhD Thesis at the University of Texas at Dallas under the supervision of Dr. Tyler Summers.
 1. **July 2016:** I defended my Masters Thesis at the Arizona State University, USA under the supervision of Dr. Armando Rodriguez.
