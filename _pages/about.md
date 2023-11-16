@@ -11,8 +11,8 @@ redirect_from:
 I am a postdoctoral researcher at the [Department of Automatic Control](https://control.lth.se) in Lund University, Sweden and I am being hosted by Dr. Anders Rantzer. Earlier I obtained my PhD in [Mechanical Engineering](https://me.utdallas.edu) (with focus on Dynamics and Controls) on 2021 from The University of Texas at Dallas, USA under the supervision of Dr. Tyler Summers. I also got a Masters degree in [Electrical Engineering](https://ecee.engineering.asu.edu) (with focus on Control Systems) on 2016 from the Arizona State University, USA where I was mentored by Dr. Armando Rodriguez. I finished my undergraduate studies in [Electrical and Electronics Engineering](https://gct.ac.in/19/department-eee-about-department) from the Government College of Technology - Anna University in Coimbatore, India by 2011.
 
 ## Recent Research Updates
-1. Check out my new work that I submitted on **≠Distributed Adaptive Control for Uncertain Networks** for the upcoming ECC 2024 at Stockholm, Sweden. [Arxiv Link](https://arxiv.org/pdf/2310.17364.pdf) 
-1. Check out my new work that I submitted on **≠Regret and Conservatism of DR Constrained Stochastic MPC** for the upcoming ACC 2024 at Toronto, Canada. [Arxiv Link](https://arxiv.org/pdf/2309.12190.pdf)
+1. Check out my new work that I submitted on **Distributed Adaptive Control for Uncertain Networks** for the upcoming ECC 2024 at Stockholm, Sweden. [Arxiv Link](https://arxiv.org/pdf/2310.17364.pdf) 
+1. Check out my new work that I submitted on **Regret and Conservatism of DR Constrained Stochastic MPC** for the upcoming ACC 2024 at Toronto, Canada. [Arxiv Link](https://arxiv.org/pdf/2309.12190.pdf)
 1. Check out my new work that I shall be presenting on **An Online Learning Analysis of Minimax Adaptive Control** at the upcoming IEEE CDC 2023 at Singapore. [Arxiv Link](https://arxiv.org/pdf/2307.07268.pdf)
 
 ## Important Events & Upcoming Travels
