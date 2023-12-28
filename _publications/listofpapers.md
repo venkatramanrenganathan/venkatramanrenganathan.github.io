@@ -16,7 +16,7 @@ For the most recent papers, watch out for my [google scholar](https://scholar.go
 
 ## Preprints in Submission
 1. **V. Renganathan**, A. Rantzer, O. Kjellqvist, `Distributed Adaptive Control For Uncertain Networks`, Submitted for European Control Conference, 2024. 
-1. M. Pfefferkorn, **V. Renganathan**, R. Findeisen, `Regret & Conservatism of Stochastic MPC`, Submitted to Letters to Control Systems Society & American Control Conference, Toronto, Canada 2024.
+1. M. Pfefferkorn, **V. Renganathan**, R. Findeisen, `Regret & Conservatism of Stochastic MPC`.
 
 ## Journals
 1. **V. Renganathan**, S. Safaoui, A. M. Kothari, B. Gravell, I. Shames, T. Summers, `Risk Bounded Nonlinear Motion Planning With Integrated Perception & Control`, Special Issue on `Risk-aware Autonomous Systems: Theory and Practice`, Artificial Intelligence, 2023. 
