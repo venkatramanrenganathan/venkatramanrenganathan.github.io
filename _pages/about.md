@@ -28,7 +28,7 @@ I am a postdoctoral researcher at the [Department of Automatic Control](https://
 1. **May 2023:** I attended the NCCR Automation's CyDiSy workshop at Monte Verita, Switzerland.
 1. **February 2023:** I visited TU Darmstadt (Hosted by Dr. Rolf Findeisen), University of Stuttgart (Hosted by Dr. Andrea Iannelli) and TU Berlin (Hosted by Dr. Steffi Knorn) in Germany as a part of the DAAD AI Net Postdoc Fellowship program.
 1. **December 2022:** I attended the CDC 2022 at Cancun, Mexico.
-1. **October 2022:** One of the most happiest months in my life. My wife Reshma and me welcomed our son **Vishruth** to this world. I also got selected for the prestigious DAAD AI Net Fellowship for AI in CPS.
+1. **October 2022:** One of the most happiest months in my life. My wife **Reshma** and me welcomed our son **Vishruth** to this world. I also got selected for the prestigious DAAD AI Net Fellowship for AI in CPS.
 1. **June 2022:** I attended the Stockholm Workshop on Emerging Topics in Systems and Control at KTH, Sweden.
 1. **June 2022:** My first set of Masters students **Kajsa Ekenberg** and **Cem Alpturk** from Lund University defended their Masters thesis on the same day succesfully. Happy to be a proud supervisor!
 1. **August 2021:** I started my postdoc position at the Department of Automatic Control in Lund University, Sweden under **Dr. Anders Rantzer**.
