@@ -23,7 +23,7 @@ I am a postdoctoral researcher at the [Department of Automatic Control](https://
 1. Check out my new work on **Regret and Conservatism of DR Constrained Stochastic MPC**. [Arxiv Link](https://arxiv.org/pdf/2309.12190.pdf)
 
 ## Important Events & Upcoming Travels
-1. **December 2023:** I attended the CDC 2023 in Singapore to present my research paper titled **An Online Learning Analysis of Minimax Adaptive Control** at the upcoming IEEE CDC 2023 at Singapore. [Arxiv Link](https://arxiv.org/pdf/2307.07268.pdf). 
+1. **December 2023:** I attended the CDC 2023 in Singapore to present my research paper titled **An Online Learning Analysis of Minimax Adaptive Control**. [Arxiv Link](https://arxiv.org/pdf/2307.07268.pdf). 
 1. **June 2023:** I attended the ACC 2023 at San Diego, CA, USA.
 1. **May 2023:** I attended the NCCR Automation's CyDiSy workshop at Monte Verita, Switzerland.
 1. **February 2023:** I visited TU Darmstadt (Hosted by Dr. Rolf Findeisen), University of Stuttgart (Hosted by Dr. Andrea Iannelli) and TU Berlin (Hosted by Dr. Steffi Knorn) in Germany as a part of the DAAD AI Net Postdoc Fellowship program.
