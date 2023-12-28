@@ -13,7 +13,7 @@ I am a postdoctoral researcher at the [Department of Automatic Control](https://
 ## Upcoming Research
 1. Currently working on a manuscript titled, **Data Driven Anomaly Detection Using Conformal Prediction**.
 1. Currently working on a manuscript titled, **Computing Distance Between Two Markov Decision Processes Using Cantor-Kantorovich Metric**. 
-1. Currently working on a manuscript titled, **Sterographic Projection of Probabilistic Uncertainties**.
+1. Currently working on a manuscript titled, **Stereographic Projection of Probabilistic Uncertainties**.
 1. Currently working on a manuscript titled, **Regret Analysis Using Nu-Gap Metric**.
 1. Currently working on a manuscript titled, **Probabilistic Robust Control Using High Confidence Model Ambiguity-Sets**.
 1. Currently working on a manuscript titled, **Anticipation Based Distributed Consensus Protocol for Networked Systems**.
