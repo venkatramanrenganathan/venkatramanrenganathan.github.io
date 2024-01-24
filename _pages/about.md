@@ -20,7 +20,7 @@ I am a postdoctoral researcher at the [Department of Automatic Control](https://
 
 ## Recent Research Updates
 1. Check out my new work on **Distributed Adaptive Control for Uncertain Networks**. [Arxiv Link](https://arxiv.org/pdf/2310.17364.pdf) 
-1. Check out my new work on **Regret and Conservatism of DR Constrained Stochastic MPC**. [Arxiv Link](https://arxiv.org/pdf/2309.12190.pdf)
+1. Check out my new work on **Regret and Conservatism of DR Constrained Stochastic MPC** which got recently accepted into the ACC 2024 to be held soon at Toronto, Canada. [Arxiv Link](https://arxiv.org/pdf/2309.12190.pdf)
 
 ## Important Events & Upcoming Travels
 1. **December 2023:** I attended the CDC 2023 in Singapore to present my research paper titled **An Online Learning Analysis of Minimax Adaptive Control**. [Arxiv Link](https://arxiv.org/pdf/2307.07268.pdf). 

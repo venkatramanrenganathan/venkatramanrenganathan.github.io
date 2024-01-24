@@ -12,11 +12,11 @@ For the most recent papers, watch out for my [google scholar](https://scholar.go
 1. **V. Renganathan**,  `Distributionally Robust Risk Allocation for Optimal Sampling Based Motion Planning Under Uncertainty `,  Journal Manuscript In Preparation, 2023. 
 1. **V. Renganathan**, N. Hashemi, J. V. Deshmukh,  `Data-driven Anomaly Detection Using Conformal Prediction `,  Conference Manuscript In Preparation, 2023. 
 1. **V. Renganathan**,  `A Novel Anticipatory Distributed Consensus Protocol for Multi-agent Systems `,  Journal Manuscript In Preparation, 2023. 
+1. M. Pfefferkorn, **V. Renganathan**, R. Findeisen, `Regret & Sub-optimalty of Distributionally Robust Stochastic MPC`.
 
 
 ## Preprints in Submission
 1. **V. Renganathan**, A. Rantzer, O. Kjellqvist, `Distributed Adaptive Control For Uncertain Networks`, Submitted for European Control Conference, 2024. 
-1. M. Pfefferkorn, **V. Renganathan**, R. Findeisen, `Regret & Conservatism of Stochastic MPC`.
 
 ## Journals
 1. **V. Renganathan**, S. Safaoui, A. M. Kothari, B. Gravell, I. Shames, T. Summers, `Risk Bounded Nonlinear Motion Planning With Integrated Perception & Control`, Special Issue on `Risk-aware Autonomous Systems: Theory and Practice`, Artificial Intelligence, 2023. 
@@ -25,6 +25,7 @@ For the most recent papers, watch out for my [google scholar](https://scholar.go
 1. **V. Renganathan**, K. Fathian, S. Safaoui, T. Summers, `Spoof resilient coordination in distributed & robust robotic network`, IEEE Transaction on Control Systems Technology, 2021. 
 
 ## Conferences
+1. M. Pfefferkorn, **V. Renganathan**, R. Findeisen, `Regret & Conservatism of Stochastic MPC`, Accepted for IEEE ACC, 2024.
 1. **V. Renganathan**, A. Iannelli, A. Rantzer, `Online Learning Analysis for Minimax Adaptive Control`, Accepted for IEEE CDC, 2023.
 1. C. Alpturk, **V. Renganathan**, `Risk Averse Path Planning Using Lipschitz Approximated Wasserstein Distributionally Robust Deep Q-learning`, ECC, Bucharest, Romania, 2023.
 1. **V. Renganathan, A. Cervin**, et.al, `Learning-based Control and Estimation for Attitude Regulation of a Reusable Launcher for Landing Scenario`,  Accepted to the ESA-GNC & ICATT Conference, Sopot, Poland, 2023.
