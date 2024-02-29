@@ -11,11 +11,13 @@ redirect_from:
 I am a postdoctoral researcher at the [Department of Automatic Control](https://control.lth.se) in Lund University, Sweden and I am being hosted by Dr. Anders Rantzer. Earlier I obtained my PhD in [Mechanical Engineering](https://me.utdallas.edu) (with focus on Dynamics and Controls) on 2021 from The University of Texas at Dallas, USA under the supervision of Dr. Tyler Summers. I hold a Masters degree in [Electrical Engineering](https://ecee.engineering.asu.edu) (with focus on Control Systems) on 2016 from the Arizona State University, USA where I was mentored by Dr. Armando Rodriguez. I finished my undergraduate studies in [Electrical and Electronics Engineering](https://gct.ac.in/19/department-eee-about-department) from the Government College of Technology - Anna University in Coimbatore, India in 2011 with Dr. V. Prasanna Moorthy being my mentor.
 
 ## Upcoming Research
-1. Currently working on a manuscript titled, **Data Driven Anomaly Detection Using Conformal Prediction**.
+1. Currently working on a manuscript titled, **Deterministic Set Invariance for Controlled Diffusion**.
+1. Currently working on a manuscript titled, **Minimax Dual Control For Uncertain Switching Systems**.
 1. Currently working on a manuscript titled, **Stereographic Projection of Probabilistic Uncertainties**.
 1. Currently working on a manuscript titled, **Regret Analysis Using Nu-Gap Metric**.
 1. Currently working on a manuscript titled, **Probabilistic Robust Control Using High Confidence Model Ambiguity-Sets**.
 1. Currently working on a manuscript titled, **Anticipation Based Distributed Consensus Protocol for Networked Systems**.
+1. Currently working on a manuscript titled, **Data Driven Anomaly Detection Using Conformal Prediction**.
 
 ## Recent Research Updates
 1. Check out my new work on **Distributed Adaptive Control for Uncertain Networks** which got recently accepted into the ECC 2024 to be held soon at KTH Stockholm, Sweden. [Arxiv Link](https://arxiv.org/pdf/2310.17364.pdf) 
