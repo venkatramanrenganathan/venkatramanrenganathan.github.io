@@ -7,17 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a postdoctoral researcher at the [Department of Automatic Control](https://control.lth.se) in Lund University, Sweden and I am being hosted by Dr. Anders Rantzer. Earlier I obtained my PhD in [Mechanical Engineering](https://me.utdallas.edu) (with focus on Dynamics and Controls) on 2021 from The University of Texas at Dallas, USA under the supervision of Dr. Tyler Summers. I hold a Masters degree in [Electrical Engineering](https://ecee.engineering.asu.edu) (with focus on Control Systems) on 2016 from the Arizona State University, USA where I was mentored by Dr. Armando Rodriguez. I finished my undergraduate studies in [Electrical and Electronics Engineering](https://gct.ac.in/19/department-eee-about-department) from the Government College of Technology - Anna University in Coimbatore, India in 2011 with Dr. V. Prasanna Moorthy being my mentor.
+I am a lecturer at the faculty of engineering and applied sciences at the Cranfield University, United Kingdom. Previously, I was a postdoctoral researcher at the [Department of Automatic Control](https://control.lth.se) in Lund University, Sweden where I was hosted by Dr. Anders Rantzer. Earlier I obtained my PhD in [Mechanical Engineering](https://me.utdallas.edu) (with focus on Dynamics and Controls) on 2021 from The University of Texas at Dallas, USA under the supervision of Dr. Tyler Summers. I hold a Masters degree in [Electrical Engineering](https://ecee.engineering.asu.edu) (with focus on Control Systems) on 2016 from the Arizona State University, USA where I was mentored by Dr. Armando Rodriguez. I finished my undergraduate studies in [Electrical and Electronics Engineering](https://gct.ac.in/19/department-eee-about-department) from the Government College of Technology - Anna University in Coimbatore, India in 2011 with Dr. V. Prasanna Moorthy being my mentor.
 
 ## Upcoming Research
-1. Currently working on a manuscript titled, **Deterministic Set Invariance for Controlled Diffusion**.
-1. Currently working on a manuscript titled, **Minimax Dual Control For Uncertain Switching Systems**.
-1. Currently working on a manuscript titled, **Stereographic Projection of Probabilistic Uncertainties**.
-1. Currently working on a manuscript titled, **Regret Analysis Using Nu-Gap Metric**.
-1. Currently working on a manuscript titled, **Probabilistic Robust Control Using High Confidence Model Ambiguity-Sets**.
+1. Currently working on a manuscript titled, **Probabilistic Robustness in the nu-gap Metric**.
 1. Currently working on a manuscript titled, **Anticipation Based Distributed Consensus Protocol for Networked Systems**.
-1. Currently working on a manuscript titled, **Data Driven Anomaly Detection Using Conformal Prediction**.
+1. Currently working on a manuscript titled, **Anomaly Detection Using Christoffel Functions**.
+1. Currently working on a manuscript titled, **Risk-aware Planning for Swarm of Drones in Uncertain Environments**.
 
 ## Recent Research Updates
 1. Check out my new work on **Distributed Adaptive Control for Uncertain Networks** which got recently accepted into the ECC 2024 to be held soon at KTH Stockholm, Sweden. [Arxiv Link](https://arxiv.org/pdf/2310.17364.pdf) 
@@ -25,6 +21,9 @@ I am a postdoctoral researcher at the [Department of Automatic Control](https://
 1. Check out my new work on **Regret and Conservatism of DR Constrained Stochastic MPC** which got recently accepted into the ACC 2024 to be held soon at Toronto, Canada. [Arxiv Link](https://arxiv.org/pdf/2309.12190.pdf)
 
 ## Important Events & Upcoming Travels
+1. **December 2024:** I attended the CDC 2024 at Milan, Italy.
+1. **August 2024:** I attended the MTNS 2024 at Cambridge, UK.
+1. **August 2024:** I started as a lecturer in Cranfield University, UK.
 1. **December 2023:** I attended the CDC 2023 in Singapore to present my research paper titled **An Online Learning Analysis of Minimax Adaptive Control**. [Arxiv Link](https://arxiv.org/pdf/2307.07268.pdf). 
 1. **June 2023:** I attended the ACC 2023 at San Diego, CA, USA.
 1. **May 2023:** I attended the NCCR Automation's CyDiSy workshop at Monte Verita, Switzerland.
