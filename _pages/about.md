@@ -14,6 +14,7 @@ I am a lecturer at the faculty of engineering and applied sciences at the [Cranf
 1. Currently working on a manuscript titled, **Anticipation Based Distributed Consensus Protocol for Networked Systems**.
 1. Currently working on a manuscript titled, **Anomaly Detection Using Christoffel Functions**.
 1. Currently working on a manuscript titled, **Risk-aware Planning for Swarm of Drones in Uncertain Environments**.
+1. Currently working on a manuscript titled, **Distance Measure Between Stochastic Dynamical Systems**.
 
 ## Important Events & Upcoming Travels
 1. **December 2024:** I attended the CDC 2024 at Milan, Italy to present my paper.
