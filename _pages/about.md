@@ -15,17 +15,13 @@ I am a lecturer at the faculty of engineering and applied sciences at the [Cranf
 1. Currently working on a manuscript titled, **Anomaly Detection Using Christoffel Functions**.
 1. Currently working on a manuscript titled, **Risk-aware Planning for Swarm of Drones in Uncertain Environments**.
 
-## Recent Research Updates
-1. Check out my new work on **Distributed Adaptive Control for Uncertain Networks** which got recently accepted into the ECC 2024 to be held soon at KTH Stockholm, Sweden. [Arxiv Link](https://arxiv.org/pdf/2310.17364.pdf) 
-1. Submitted a manuscript to MTNS 2024 titled, **Computing Distance Between Two Markov Decision Processes Using Cantor-Kantorovich Metric** with Adrien Banse and Raphael Jungers from UC Louvain, Belgium. 
-1. Check out my new work on **Regret and Conservatism of DR Constrained Stochastic MPC** which got recently accepted into the ACC 2024 to be held soon at Toronto, Canada. [Arxiv Link](https://arxiv.org/pdf/2309.12190.pdf)
-
 ## Important Events & Upcoming Travels
-1. **December 2024:** I attended the CDC 2024 at Milan, Italy.
-1. **August 2024:** I attended the MTNS 2024 at Cambridge, UK.
-1. **August 2024:** I started as a lecturer in Cranfield University, UK.
+1. **December 2024:** I attended the CDC 2024 at Milan, Italy to present my paper.
+1. **November 2024:** I was a Visiting Assistant Professor at Technical University of Darmstadt in Germany hosted by Prof. Dr. Rolf Findeisen as a part of the DAAD AI Net Program's Short-Term Research Visit Fellowship .
+1. **August 2024:** I attended the MTNS 2024 at Cambridge, UK to present my paper.
+1. **August 2024:** I started as a lecturer in multiple-agent systems and control at the Cranfield University, UK.
 1. **December 2023:** I attended the CDC 2023 in Singapore to present my research paper titled **An Online Learning Analysis of Minimax Adaptive Control**. [Arxiv Link](https://arxiv.org/pdf/2307.07268.pdf). 
-1. **June 2023:** I attended the ACC 2023 at San Diego, CA, USA.
+1. **June 2023:** I attended the ACC 2023 at San Diego, CA, USA to present my paper.
 1. **May 2023:** I attended the NCCR Automation's CyDiSy workshop at Monte Verita, Switzerland.
 1. **February 2023:** I visited TU Darmstadt (Hosted by Dr. Rolf Findeisen), University of Stuttgart (Hosted by Dr. Andrea Iannelli) and TU Berlin (Hosted by Dr. Steffi Knorn) in Germany as a part of the DAAD AI Net Postdoc Fellowship program.
 1. **December 2022:** I attended the CDC 2022 at Cancun, Mexico.
