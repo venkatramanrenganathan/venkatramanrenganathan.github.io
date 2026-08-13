@@ -10,13 +10,15 @@ redirect_from:
 I am an assistant professor in the [Department of Artificial Intelligence](https://ai.iith.ac.in/index.html) at the [IIT Hyderabad](https://www.iith.ac.in/) in India. Previously, I was a lecturer at the faculty of engineering and applied sciences at the [Cranfield University](https://profiles.cranfield.ac.uk/3240-venkatraman-renganathan), United Kingdom from August 2024 until June 2026. Before that, I was a postdoctoral researcher at the [Department of Automatic Control](https://control.lth.se) in Lund University, Sweden where I was hosted by Dr. Anders Rantzer. Earlier I obtained my PhD in [Mechanical Engineering](https://me.utdallas.edu) (with focus on Dynamics and Controls) on 2021 from The University of Texas at Dallas, USA under the supervision of Dr. Tyler Summers. I hold a Masters degree in [Electrical Engineering](https://ecee.engineering.asu.edu) (with focus on Control Systems) on 2016 from the Arizona State University, USA where I was mentored by Dr. Armando Rodriguez. I finished my undergraduate studies in [Electrical and Electronics Engineering](https://gct.ac.in/19/department-eee-about-department) from the Government College of Technology - Anna University in Coimbatore, India in 2011 with Dr. V. Prasanna Moorthy being my mentor.
 
 ## Upcoming Research
-1. Currently working on a manuscript titled, **Probabilistic Robustness in the nu-gap Metric**.
-1. Currently working on a manuscript titled, **Anticipation Based Distributed Consensus Protocol for Networked Systems**.
-1. Currently working on a manuscript titled, **Anomaly Detection Using Christoffel Functions**.
-1. Currently working on a manuscript titled, **Risk-aware Planning for Swarm of Drones in Uncertain Environments**.
+1. Currently working on a manuscript titled, **Risk-Aware Decoding for LLMs**.
+1. Currently working on a manuscript titled, **Risk-Aware Motion Planning for Swarms**.
+1. Currently working on a manuscript titled, **Temporal Logical Stochastic Processes**.
 1. Currently working on a manuscript titled, **Distance Measure Between Stochastic Dynamical Systems**.
+1. Currently working on a manuscript titled, **Risk-aware Planning for Swarm of Drones in Uncertain Environments**.
+1. Currently working on a manuscript titled, **Distance Measure Between Stochastic Nonlinear Systems**.
 
 ## Important Events & Upcoming Travels
+1. **July 2026:** I started as an assistant professor in the department of artificial intelligence at the Indian Institute of Technology Hyderabad, Kandi, Sangareddy District, Telangana State, India.
 1. **December 2024:** I attended the CDC 2024 at Milan, Italy to present my paper.
 1. **November 2024:** I was a Visiting Assistant Professor at Technical University of Darmstadt in Germany hosted by Prof. Dr. Rolf Findeisen as a part of the DAAD AI Net Program's Short-Term Research Visit Fellowship .
 1. **August 2024:** I attended the MTNS 2024 at Cambridge, UK to present my paper.
