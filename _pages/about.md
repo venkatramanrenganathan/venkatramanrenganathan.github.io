@@ -20,6 +20,11 @@ Previously, I was a lecturer at the faculty of engineering and applied sciences 
 
 ## Important Events & Upcoming Travels
 1. **July 2026:** I started as an assistant professor in the department of artificial intelligence at the Indian Institute of Technology Hyderabad, Kandi, Sangareddy District, Telangana State, India.
+1. **December 2025:** I gave a research talk at Department of Artificial Intelligence of IIT Hyderabad
+1. **October 2025:** I gave a research talk at Department of Electrical Engineering of IIT Kanpur
+1. **October 2025:** I gave a research talk at Department of Electrical Engineering of IIT Delhi
+1. **June 2025:** I gave a talk at Controls Group at University of Cambridge, UK
+1. **June 2025:** I gave a talk at Laboratory of Signals and Systems at CentraleSupelec, University of Paris-Saclay, France.
 1. **December 2024:** I attended the CDC 2024 at Milan, Italy to present my paper.
 1. **November 2024:** I was a Visiting Assistant Professor at Technical University of Darmstadt in Germany hosted by Prof. Dr. Rolf Findeisen as a part of the DAAD AI Net Program's Short-Term Research Visit Fellowship .
 1. **August 2024:** I attended the MTNS 2024 at Cambridge, UK to present my paper.
@@ -28,6 +33,7 @@ Previously, I was a lecturer at the faculty of engineering and applied sciences 
 1. **June 2023:** I attended the ACC 2023 at San Diego, CA, USA to present my paper.
 1. **May 2023:** I attended the NCCR Automation's CyDiSy workshop at Monte Verita, Switzerland.
 1. **February 2023:** I visited TU Darmstadt (Hosted by Dr. Rolf Findeisen), University of Stuttgart (Hosted by Dr. Andrea Iannelli) and TU Berlin (Hosted by Dr. Steffi Knorn) in Germany as a part of the DAAD AI Net Postdoc Fellowship program.
+1. **January 2023:** I gave a talk at IIT Madras
 1. **December 2022:** I attended the CDC 2022 at Cancun, Mexico.
 1. **October 2022:** One of the most happiest months in my life. My wife **Reshma** and me welcomed our son **Vishruth** to this world. I also got selected for the prestigious DAAD AI Net Fellowship for AI in CPS.
 1. **June 2022:** I attended the Stockholm Workshop on Emerging Topics in Systems and Control at KTH, Sweden.
